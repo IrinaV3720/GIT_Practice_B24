@@ -1,7 +1,9 @@
 package Setup;
 
 public class Second {
+
     public void m(){
+        System.out.println("first method");
 
     }
 
